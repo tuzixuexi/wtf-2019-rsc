@@ -82,3 +82,7 @@ Written versions of content are under open development here:
   * GitHub repo: <https://github.com/jennybc/wtf-2019-rsc>
   * GitHub Pages site, served from that repo: <https://jennybc.github.io/wtf-2019-rsc/>
   * Easy-to-type rstd.io short link to that GitHub Pages site: [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
+
+
+## Edit wtf20190613
+   * 1st comments
